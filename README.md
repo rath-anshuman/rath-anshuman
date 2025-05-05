@@ -51,6 +51,10 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-05122A?style=flat&logo=cloudinary)
+![Railway](https://img.shields.io/badge/-Railway-05122A?style=flat&logo=railway)
+![Hostinger](https://img.shields.io/badge/-Hostinger-05122A?style=flat&logo=hostinger)
 
 ---
 
