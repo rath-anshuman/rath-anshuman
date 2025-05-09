@@ -39,7 +39,6 @@
 ### 🧩 Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css)
 
 ### 🛢️ Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
