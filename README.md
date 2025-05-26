@@ -70,7 +70,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Anshuman%20Rath-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anshuman-rath)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/rath-anshuman)  
-[![Gmail](https://img.shields.io/badge/-rath.anshuman101@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rath.anshuman101@gmail.com)
+[![Gmail](https://img.shields.io/badge/anshumanrath030@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rath.anshuman101@gmail.com)
 
 ---
 
