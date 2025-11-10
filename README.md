@@ -1,88 +1,173 @@
-<!-- ⚡ Futuristic Profile Banner -->
+
+<!-- =========================================================
+   ⚡ ANSHUMAN RATH — FUTURISTIC / CYBER READMe (Neon Matrix)
+   Drop this into: https://github.com/rath-anshuman/rath-anshuman
+   Replace all occurrences of USERNAME -> rath-anshuman where needed
+   ========================================================== -->
+
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=250&section=header&text=Anshuman%20Rath&fontSize=60&fontAlignY=35&fontColor=0D1117&animation=twinkling&desc=Developer%20|%20DevOps%20Engineer%20|%20Tech%20Visionary&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Anshuman%20Rath&fontSize=60&fontAlignY=38&color=0:00F0FF,100:7A00FF&fontColor=0D1117&animation=twinkling&desc=Full%20Stack%20%7C%20DevOps%20%7C%20Community%20Builder&descAlignY=60&descSize=18"/>
 </p>
 
-<!-- Typing Intro -->
+<!-- Typing Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Anshuman+Rath;Full+Stack+Developer+⚙️;DevOps+Enthusiast+🚀;Lifelong+Learner+🌱;Building+Future+With+Code+💡">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Building+the+Future+with+Code;Full+Stack+%7C+DevOps+%7C+Cloud;Automate.+Scale.+Ship.;Western+Odisha+%E2%86%92+Global+Tech+Hub" />
 </p>
 
----
-
-## 🧬 About Me
-
-> “Turning Ideas into Reality — One Commit at a Time.”
-
-- 🎓 BCA Graduate — *Centurion University*  
-- 🎓 Pursuing MCA — *ITER, Siksha 'O' Anusandhan*  
-- 🧠 Passion: *Building scalable systems, automating workflows, and crafting futuristic digital experiences*  
-- ⚙️ Currently Exploring: **Docker · AWS · React · Flutter · CI/CD Pipelines**  
-- 🛰️ Goal: **To architect a developer-driven tech revolution in Western Odisha**  
-- ☕ Fun Fact: *I debug with lo-fi beats and caffeine.*
-
----
-
-## 🧠 Tech Arsenal
-
-### 👾 Programming Languages
-![Python](https://img.shields.io/badge/Python-%23000?style=for-the-badge&logo=python&logoColor=0ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23000?style=for-the-badge&logo=openjdk&logoColor=EA2D2E)
-![Dart](https://img.shields.io/badge/Dart-%23000?style=for-the-badge&logo=dart&logoColor=00C4CC)
-![HTML5](https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### 🧩 Frameworks
-![Django](https://img.shields.io/badge/Django-%23000?style=for-the-badge&logo=django&logoColor=0ff)
-![React](https://img.shields.io/badge/React-%23000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%23000?style=for-the-badge&logo=flutter&logoColor=00C4CC)
-
-### 💾 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23000?style=for-the-badge&logo=postgresql&logoColor=00C4CC)
-![Supabase](https://img.shields.io/badge/Supabase-%23000?style=for-the-badge&logo=supabase&logoColor=00C4CC)
-
-### ⚙️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-%23000?style=for-the-badge&logo=docker&logoColor=00C4CC)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23000?style=for-the-badge&logo=githubactions&logoColor=00C4CC)
-![Nginx](https://img.shields.io/badge/Nginx-%23000?style=for-the-badge&logo=nginx&logoColor=00C4CC)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%23000?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Railway](https://img.shields.io/badge/Railway-%23000?style=for-the-badge&logo=railway&logoColor=00C4CC)
-![Vercel](https://img.shields.io/badge/Vercel-%23000?style=for-the-badge&logo=vercel&logoColor=00C4CC)
-![Hostinger](https://img.shields.io/badge/Hostinger-%23000?style=for-the-badge&logo=hostinger&logoColor=8C52FF)
-
----
-
-## 🧩 GitHub System Status
-
+<!-- Quick Links / Status Row -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rath-anshuman&show_icons=true&theme=react&title_color=00F0FF&icon_color=00F0FF&bg_color=0D1117&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=rath-anshuman&theme=react&ring=00F0FF&fire=00C4CC&currStreakLabel=00F0FF&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rath-anshuman&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=00F0FF" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rath-anshuman&theme=matrix&margin-w=10&no-frame=true&column=6" />
+  <a href="https://github.com/rath-anshuman"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rath-anshuman&style=flat-square&label=VISITORS&color=00F0FF"/></a>
+  <a href="https://github.com/rath-anshuman?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/rath-anshuman?style=flat-square&label=FOLLOWERS&color=7A00FF"/></a>
+  <a href="mailto:rath.anshuman101@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Email-Contact-0D1117?style=flat-square&logo=gmail&logoColor=FF4B4B"/></a>
+  <a href="https://linkedin.com/in/anshuman-rath"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=0af"/></a>
 </p>
 
 ---
 
-## 🧠 Featured Creations
+### 🧬 About
+> Dreaming • Learning • Shipping — turning ideas into durable systems.
 
-| 🚀 Project | 🧩 Description | 🧰 Stack |
-|-------------|----------------|-----------|
-| **CocoMatik** | Modular E-Commerce Backend with Shiprocket Integration | Django · DRF · PostgreSQL · Docker |
-| **Flind** | File Transfer + Business API with Secure Auth | Django REST · JWT · Railway |
-| **Movie Recommender** | Personalized Movie Suggestion Engine | Python · ML · Streamlit |
-| **Face Metrics** | Facial Emotion Recognition Dashboard | OpenCV · TensorFlow · Flask |
+- 🎓 **BCA** — Centurion University  
+- 🎓 **MCA (pursuing)** — ITER, *Siksha 'O' Anusandhan*  
+- 🧭 Focus: **Full‑Stack** (Django/React) • **DevOps** (Docker, CI/CD) • **Cloud** (AWS)  
+- 🛰️ Mission: Build a **developer community** & transform **Western Odisha** into a **tech hub**.  
 
 ---
 
-## 🌐 Connect With Me
+### 🧠 Skills Matrix
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=EA2D2E">
+  <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=00F0FF">
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <br/>
+  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00F0FF">
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00C4CC">
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F0FF">
+  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00F0FF">
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00F0FF">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=00F0FF">
+  <img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=00F0FF">
+  <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020">
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=fff">
+  <img src="https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=00F0FF">
+  <img src="https://img.shields.io/badge/Hostinger-0D1117?style=for-the-badge&logo=hostinger&logoColor=8C52FF">
+</p>
+
+---
+
+### 🧪 Live Telemetry (Auto widgets)
+> These images update over time. Keep them — your profile always looks alive.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rath-anshuman&bg_color=0D1117&color=00F0FF&line=7A00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rath-anshuman&show_icons=true&hide_border=true&theme=react&title_color=00F0FF&icon_color=00F0FF&bg_color=0D1117" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=rath-anshuman&theme=react&hide_border=true&ring=00F0FF&fire=7A00FF&currStreakLabel=00F0FF" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rath-anshuman&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=00F0FF" width="45%"/>
+</p>
+
+---
+
+### 🚀 Flagship Projects
+> Hand‑picked builds that represent how I design systems.
+
+<table>
+<tr>
+<td width="50%">
+
+**CocoMatik**  
+<sub>Modular e‑commerce backend with Shiprocket integration and order snapshots.</sub>  
+
+`Django` · `DRF` · `PostgreSQL` · `Docker` · `Nginx`  
+
+[▶ Repo](https://github.com/rath-anshuman/CocoMatik)
+
+</td>
+<td width="50%">
+
+**Flind**  
+<sub>File sender API + business registry with secure auth & shareable links.</sub>  
+
+`Django REST` · `JWT` · `Railway` · `Cloudflare`  
+
+[▶ Repo](https://github.com/rath-anshuman/Flind)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Movie Recommender**  
+<sub>Personalized recommendations. Clean UI + simple ML pipelines.</sub>  
+
+`Python` · `Pandas` · `Streamlit`  
+
+[▶ Repo](https://github.com/rath-anshuman/Movie-Recommender)
+
+</td>
+<td width="50%">
+
+**Face Metrics**  
+<sub>Facial emotion dashboard with real‑time inference.</sub>  
+
+`OpenCV` · `TensorFlow` · `Flask`  
+
+[▶ Repo](https://github.com/rath-anshuman/Face-Metrics)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛰️ Metrics Dashboard (Pro)
+> Add this once you enable the action at [lowlighter/metrics]. Keep or remove as you prefer.
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/rath-anshuman?template=classic&isocalendar=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.limit=6&config.timezone=Asia%2FKolkata" width="90%"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake (Optional)
+> Enable the action **Platane/snk** to animate your contributions.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rath-anshuman/rath-anshuman/output/snake.svg" alt="snake"/>
+</p>
+
+---
+
+### 🔭 What I'm Exploring Now
+- **Docker + Nginx + Gunicorn** production patterns for Django
+- **AWS** (EC2, S3, Route 53, CloudFront) with **Cloudflare** in front
+- **Elasticsearch** search UX for product discovery
+- **Flutter** for micro‑frontends + mobile integration
+
+---
+
+### 🗺️ Roadmap 2025 → 2026
+- [ ] Cloud‑ready **microservices** with Django + DRF
+- [ ] **CI/CD** blue‑green deploys (GitHub Actions + Terraform)
+- [ ] **Community portal** for Western Odisha developers
+- [ ] Public **DevOps boilerplates** for Django/React
+
+---
+
+### 🤝 Connect
 <p align="center">
   <a href="https://linkedin.com/in/anshuman-rath" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/rath-anshuman" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0ff"/></a>
@@ -91,14 +176,14 @@
 
 ---
 
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F0FF,100:7A00FF"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CURRENT_STATUS%20%3A%20BUILDING%20THE%20FUTURE-0D1117?style=for-the-badge&logo=terminal&logoColor=0ff" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=120&section=footer" />
-</p>
+<!--
+Quick Setup Notes
+1) Create repo named exactly your username: rath-anshuman/rath-anshuman
+2) For Metrics + Snake, enable GitHub Actions per their READMEs.
+3) Keep color dual-tone: cyan (00F0FF) + violet (7A00FF) on #0D1117.
+-->
