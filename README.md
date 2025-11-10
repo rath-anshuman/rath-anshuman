@@ -65,11 +65,6 @@
 </p>
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rath-anshuman&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rath-anshuman&theme=radical" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rath-anshuman&layout=compact&theme=radical" />
 </p>
 
