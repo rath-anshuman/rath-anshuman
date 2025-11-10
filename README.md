@@ -133,21 +133,26 @@
 
 ---
 
-### 🛰️ Metrics Dashboard (Pro)
-> Add this once you enable the action at [lowlighter/metrics]. Keep or remove as you prefer.
-
+### 🛰️ Metrics Dashboard 
 <p align="center">
-  <img src="https://metrics.lecoq.io/rath-anshuman?template=classic&isocalendar=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.limit=6&config.timezone=Asia%2FKolkata" width="90%"/>
+  <img src="./metrics.svg" width="90%"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake (Optional)
-> Enable the action **Platane/snk** to animate your contributions.
-
+### 🐍 Contribution Snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rath-anshuman/rath-anshuman/output/snake.svg" alt="snake"/>
 </p>
+
+
+---
+---
+### 👓 Activity 
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rath-anshuman&bg_color=0D1117&color=00F0FF&line=7A00FF&point=FFFFFF&area=true&hide_border=true"
+/>
+
 
 ---
 
