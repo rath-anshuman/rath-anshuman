@@ -63,7 +63,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rath-anshuman&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rath-anshuman&theme=radical" width="48%"/>
 </p>
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak1656&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak1656&theme=radical" height="180"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak1656&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthak1656&theme=radical&row=1&column=6"/>
+</p>
+
+---
 ---
 
 ## 📫 Connect With Me
