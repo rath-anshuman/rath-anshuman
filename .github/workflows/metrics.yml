@@ -1,0 +1,36 @@
+name: Generate Metrics
+on:
+  schedule:
+    - cron: "30 */12 * * *"   # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Required
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Basic
+          user: rath-anshuman
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+
+          # Plugins (tweak freely)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 6
+
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+
+          # Output
+          filename: metrics.svg
