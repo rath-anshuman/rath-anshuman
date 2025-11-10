@@ -1,8 +1,6 @@
-
 <!-- =========================================================
    ⚡ ANSHUMAN RATH — FUTURISTIC / CYBER READMe (Neon Matrix)
-   Drop this into: https://github.com/rath-anshuman/rath-anshuman
-   Replace all occurrences of USERNAME -> rath-anshuman where needed
+   Repo: https://github.com/rath-anshuman/rath-anshuman
    ========================================================== -->
 
 <!-- Hero Banner -->
@@ -25,17 +23,17 @@
 
 ---
 
-### 🧬 About
+## 🧬 About Me
 > Dreaming • Learning • Shipping — turning ideas into durable systems.
 
 - 🎓 **BCA** — Centurion University  
 - 🎓 **MCA (pursuing)** — ITER, *Siksha 'O' Anusandhan*  
-- 🧭 Focus: **Full‑Stack** (Django/React) • **DevOps** (Docker, CI/CD) • **Cloud** (AWS)  
+- 🧭 Focus: **Full-Stack** (Django/React) • **DevOps** (Docker, CI/CD) • **Cloud** (AWS)  
 - 🛰️ Mission: Build a **developer community** & transform **Western Odisha** into a **tech hub**.  
 
 ---
 
-### 🧠 Skills Matrix
+## 🧠 Skills Matrix
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F7DF1E">
@@ -63,8 +61,7 @@
 
 ---
 
-### 🧪 Live Telemetry (Auto widgets)
-> These images update over time. Keep them — your profile always looks alive.
+## 🧪 Live Telemetry (Auto Widgets)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rath-anshuman&bg_color=0D1117&color=00F0FF&line=7A00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
@@ -81,18 +78,17 @@
 
 ---
 
-### 🚀 Flagship Projects
-> Hand‑picked builds that represent how I design systems.
+## 🚀 Flagship Projects
+> Hand-picked builds that represent how I design systems.
 
 <table>
 <tr>
 <td width="50%">
 
 **CocoMatik**  
-<sub>Modular e‑commerce backend with Shiprocket integration and order snapshots.</sub>  
+<sub>Modular e-commerce backend with Shiprocket integration and order snapshots.</sub>  
 
 `Django` · `DRF` · `PostgreSQL` · `Docker` · `Nginx`  
-
 [▶ Repo](https://github.com/rath-anshuman/CocoMatik)
 
 </td>
@@ -102,7 +98,6 @@
 <sub>File sender API + business registry with secure auth & shareable links.</sub>  
 
 `Django REST` · `JWT` · `Railway` · `Cloudflare`  
-
 [▶ Repo](https://github.com/rath-anshuman/Flind)
 
 </td>
@@ -114,17 +109,15 @@
 <sub>Personalized recommendations. Clean UI + simple ML pipelines.</sub>  
 
 `Python` · `Pandas` · `Streamlit`  
-
 [▶ Repo](https://github.com/rath-anshuman/Movie-Recommender)
 
 </td>
 <td width="50%">
 
 **Face Metrics**  
-<sub>Facial emotion dashboard with real‑time inference.</sub>  
+<sub>Facial emotion dashboard with real-time inference.</sub>  
 
 `OpenCV` · `TensorFlow` · `Flask`  
-
 [▶ Repo](https://github.com/rath-anshuman/Face-Metrics)
 
 </td>
@@ -133,46 +126,37 @@
 
 ---
 
-### 🛰️ Metrics Dashboard 
+## 🛰️ Metrics Dashboard 
 <p align="center">
   <img src="./metrics.svg" width="90%"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake 
+## 🐍 Contribution Snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rath-anshuman/rath-anshuman/output/snake.svg" alt="snake"/>
 </p>
 
-
----
----
-### 👓 Activity 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rath-anshuman&bg_color=0D1117&color=00F0FF&line=7A00FF&point=FFFFFF&area=true&hide_border=true"
-/>
-
-
 ---
 
-### 🔭 What I'm Exploring Now
-- **Docker + Nginx + Gunicorn** production patterns for Django
-- **AWS** (EC2, S3, Route 53, CloudFront) with **Cloudflare** in front
-- **Elasticsearch** search UX for product discovery
-- **Flutter** for micro‑frontends + mobile integration
+## 🔭 What I'm Exploring Now
+- **Docker + Nginx + Gunicorn** production patterns for Django  
+- **AWS** (EC2, S3, Route 53, CloudFront) with **Cloudflare**  
+- **Elasticsearch** search UX for product discovery  
+- **Flutter** for micro-frontends + mobile integration  
 
 ---
 
-### 🗺️ Roadmap 2025 → 2026
-- [ ] Cloud‑ready **microservices** with Django + DRF
-- [ ] **CI/CD** blue‑green deploys (GitHub Actions + Terraform)
-- [ ] **Community portal** for Western Odisha developers
-- [ ] Public **DevOps boilerplates** for Django/React
+## 🗺️ Roadmap 2025 → 2026
+- [ ] Cloud-ready **microservices** with Django + DRF  
+- [ ] **CI/CD** blue-green deploys (GitHub Actions + Terraform)  
+- [ ] **Community portal** for Western Odisha developers  
+- [ ] Public **DevOps boilerplates** for Django/React  
 
 ---
 
-### 🤝 Connect
+## 🤝 Connect
 <p align="center">
   <a href="https://linkedin.com/in/anshuman-rath" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/rath-anshuman" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0ff"/></a>
@@ -187,8 +171,8 @@
 </p>
 
 <!--
-Quick Setup Notes
-1) Create repo named exactly your username: rath-anshuman/rath-anshuman
-2) For Metrics + Snake, enable GitHub Actions per their READMEs.
-3) Keep color dual-tone: cyan (00F0FF) + violet (7A00FF) on #0D1117.
+Setup Notes:
+1️⃣ Repo must be named exactly: rath-anshuman/rath-anshuman
+2️⃣ Enable Metrics & Snake Actions per setup guide.
+3️⃣ Theme colors: cyan (00F0FF) + violet (7A00FF) on dark (0D1117).
 -->
