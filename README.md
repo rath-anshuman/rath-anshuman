@@ -151,7 +151,6 @@
 ## 🗺️ Roadmap 2025 → 2026
 - [ ] Cloud-ready **microservices** with Django + DRF  
 - [ ] **CI/CD** blue-green deploys (GitHub Actions + Terraform)  
-- [ ] **Community portal** for Western Odisha developers  
 - [ ] Public **DevOps boilerplates** for Django/React  
 
 ---
