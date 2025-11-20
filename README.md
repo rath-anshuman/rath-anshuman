@@ -10,7 +10,7 @@
 
 <!-- Typing Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Building+the+Future+with+Code;Full+Stack+%7C+DevOps+%7C+Cloud;Automate.+Scale.+Ship.;Western+Odisha+%E2%86%92+Global+Tech+Hub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Building+the+Future+with+Code;Full+Stack+%7C+DevOps+%7C+Cloud;Automate.+Scale.+Ship.;" />
 </p>
 
 <!-- Quick Links / Status Row -->
