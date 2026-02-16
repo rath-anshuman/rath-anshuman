@@ -29,7 +29,6 @@
 - 🎓 **BCA** — Centurion University  
 - 🎓 **MCA (pursuing)** — ITER, *Siksha 'O' Anusandhan*  
 - 🧭 Focus: **Full-Stack** (Django/React) • **DevOps** (Docker, CI/CD) • **Cloud** (AWS)  
-- 🛰️ Mission: Build a **developer community** & transform **Western Odisha** into a **tech hub**.  
 
 ---
 
